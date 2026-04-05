@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @trash627
-- 👀 I’m interested in Formal Methods, Hybrid Systems, and Safe Autonomous Systems.
+- 👀 I’m interested in Dynamical Systems, Logic, and Formal Methods.
 - 🌱 I’m pursuing my PhD in (theoretical) Computer Science at Karlsruhe Institute of Technology (KIT).
 - 📫 Reach me via email at promit [dot] panja [at] kit [dot] edu
