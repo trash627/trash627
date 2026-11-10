@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @trash627
-- 👀 I’m interested in Dynamical Systems, Logic, and Formal Methods.
-- 🌱 I’m pursuing my PhD in (theoretical) Computer Science at Karlsruhe Institute of Technology (KIT).
+- 👀 I’m interested in Logic, Formal Methods, and Hybrid Systems Verification.
+- 🌱 I’m pursuing my PhD in (theoretical) Computer Science at the Karlsruhe Institute of Technology (KIT).
+- 🌐 Check out my [webpage](https://trash627.github.io/trash-site/).
 - 📫 Reach me via email at promit [dot] panja [at] kit [dot] edu
